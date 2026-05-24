@@ -41,6 +41,8 @@ Fetch the homepage, a product page, the About page, Contact page, shipping/retur
 | **Only product pages polished** | Product pages have effort; all other pages are bare or boilerplate |
 | **No social proof beyond site** | No verifiable press mentions, no linked social media with real engagement |
 | **Contact email is Gmail/Yahoo** | Business using free email provider instead of domain-based email |
+| **City name mismatch** | Store name includes a city (e.g. "Lumina Vancouver") but WHOIS, shipping origin, or return address point somewhere else entirely — a deliberate attempt to borrow credibility from a trustworthy locale |
+| **No clear refund/support page** | No dedicated support page, or the refund policy is buried, vague, or hidden behind a contact form. Legitimate retailers explain return windows, who pays return shipping, and the return address in plain language |
 
 ### Product Signals
 
@@ -117,6 +119,36 @@ When signals are ambiguous, try these:
 
 **Savvy dropshippers hide it.** Some buy one sample to photograph with their own models, add custom branding to packages via their supplier, and build polished websites. No single signal is conclusive — look at the pattern across multiple signals.
 
+## EU Regulations
+
+If the seller targets customers in the European Economic Area (EEA) — which includes having an EEA-language site, EEA domain, or advertising in an EEA country — two EU directives likely apply, regardless of where the seller is physically located. A customer complaining about a dropshipper in this context can often point to specific violations.
+
+### Consumer Rights Directive (2011/83/EU)
+
+Governs distance contracts (online sales). Key rights:
+
+- **14-day right of withdrawal.** Consumers can cancel a distance contract within 14 days of receiving the goods, without giving a reason and without penalty (Art. 9).
+- **14-day refund window.** After the trader is informed of withdrawal, they must refund *all* payments received — including original shipping — within 14 days, using the original payment method (Art. 13).
+- **Return shipping.** The consumer generally pays return shipping *only if* the trader clearly informed them of this before purchase. If the trader failed to disclose this, the trader bears the return cost (Art. 14).
+- **Pre-contract information.** Before purchase, the trader must clearly provide: identity, geographic address, phone, email, total price, delivery arrangements, withdrawal conditions, and the legal guarantee of conformity (Art. 6). The burden of proving compliance is on the trader.
+- **Non-conforming goods.** Under the related Sale of Goods Directive (2019/771/EU), if delivered goods don't match the description, the consumer is entitled to repair, replacement, price reduction, or full refund — and the trader bears the cost of returning non-conforming goods.
+
+### Unfair Commercial Practices Directive (2005/29/EC)
+
+Prohibits misleading business-to-consumer practices. Relevant violations by dropshipping scams:
+
+- **Misleading actions (Art. 6).** False or deceptive information about a product's main characteristics, composition, or "results to be expected from its use" — e.g. polyester described as leather, or product photos that don't match what ships.
+- **Misleading omissions (Art. 7).** Hiding or obscuring material information the consumer needs to make an informed decision, including the true origin of goods and actual shipping times.
+- **Bait advertising (Annex I).** Offering products the trader has no reasonable grounds to supply at the advertised specification or price.
+- **Bait-and-switch (Annex I).** Advertising one product and delivering something materially different.
+- **Fake reviews (Annex I).** Submitting or commissioning fake consumer reviews, or falsely claiming reviews come from actual purchasers.
+
+### Practical implications for a wronged buyer
+
+- A demand that the buyer pay to ship a non-conforming product back to China is likely **unenforceable** under the Consumer Rights Directive if the trader didn't disclose this up front — and even then, non-conforming goods are returned at the trader's cost.
+- The buyer can cite these directives in a chargeback dispute with their bank or card network; "goods not as described" is a standard chargeback reason code and the EU legal backing strengthens the claim.
+- Buyers can report the trader to their national consumer protection authority (e.g. the European Consumer Centre Network, ECC-Net) which can pursue cross-border cases.
+
 ## Output Format
 
 Present findings as:
@@ -138,6 +170,14 @@ Present findings as:
 ### Recommendation
 
 [Brief recommendation: safe to buy, proceed with caution, or avoid]
+
+### Next Steps
+
+[For buyers who have already ordered and have a complaint:]
+- **Consumer protection authority** — name and link the local authority for the seller's actual jurisdiction (not the fake one in the store name). In the EEA, point to the European Consumer Centre Network (ECC-Net). In the US, the state attorney general and FTC. In Canada, the Competition Bureau / provincial consumer protection office.
+- **Platform dispute** — link the platform's own guidance. For Shopify stores: https://help.shopify.com/en/manual/compliance/legal/dropshipping and https://www.shopify.com/legal/terms. Shopify requires merchants to publish an accurate refund policy and can terminate non-compliant stores.
+- **Chargeback** — advise the buyer to file a chargeback with their credit card issuer or payment provider (PayPal dispute, card "goods not as described" reason code). Include the evidence from this analysis. This is usually the fastest path to a refund when the seller is overseas and uncooperative.
+- **EU buyers** — cite the specific directives above (Consumer Rights Directive 2011/83/EU and Unfair Commercial Practices Directive 2005/29/EC) in correspondence and chargeback filings.
 ```
 
 ## Sources
