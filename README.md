@@ -10,7 +10,7 @@ they choose to do business with and how.
 | drop-shipper-analysis | Evaluate whether an online store is a dropshipper or dropshipping scam. |
 | read-privacy-policy | Summarize a privacy policy and highlight consumer-unfriendly behavior. |
 
-## CLaude Code
+## Claude Code
 
 ```
 /plugin marketplace add ransford/consumer-skills
