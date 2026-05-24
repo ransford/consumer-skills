@@ -1,5 +1,5 @@
 ---
-name: dropshipper
+name: drop-shipper
 description: Use when the user wants to evaluate whether an online store is a dropshipper or dropshipping scam. Trigger on URLs to unfamiliar stores, questions about store legitimacy, or "is this site legit" type queries.
 ---
 
