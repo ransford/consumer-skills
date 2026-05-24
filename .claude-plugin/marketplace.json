@@ -1,0 +1,13 @@
+{
+  "name": "consumer-skills",
+  "owner": {
+    "name": "Ben Ransford"
+  },
+  "plugins": [
+    {
+      "name": "consumer-skills",
+      "source": "./plugins/consumer-skills",
+      "description": "Adds skills for savvy consumers"
+    }
+  ]
+}
